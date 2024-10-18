@@ -1,6 +1,8 @@
 # Alura-Plus
 Site Alura Plus 
-
+```
+Status: Projeto Finalizado
+```
 # Linguagens usadas;
 HTML5 e CSS3 
 
